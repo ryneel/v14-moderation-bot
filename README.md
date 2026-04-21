@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/discord.js-v14-5865F2?style=flat-square&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-18%2B-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/license-MIT-4FC3F7?style=flat-square" />
-  <img src="https://img.shields.io/github/stars/ryneel/rynel-guard?style=flat-square&color=4FC3F7" />
+  <img src="https://img.shields.io/github/stars/ryneel/v14-moderation-bot?style=flat-square&color=4FC3F7" />
 </p>
 
 <p align="center">
