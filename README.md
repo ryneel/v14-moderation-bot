@@ -39,8 +39,8 @@
 ### Installation
 
 ```bash
-git clone https://github.com/ryneel/rynel-guard.git
-cd rynel-guard
+git clone https://github.com/ryneel/v14-moderation-bot.git
+cd v14-moderation-bot 
 npm install
 ```
 
